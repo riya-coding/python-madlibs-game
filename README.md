@@ -1,13 +1,22 @@
-# Mad Libs Game (Python)
-A simple Python-based Mad Libs game where users enter words
-and the program generates a fun story.
+# Python Mad Libs Game
+A simple Mad Libs game built using Python.  
+The game takes input from the user (like adjectives, nouns, and verbs) and
+creates a fun story based on the entered words.
+
 ## Features
-- User input handling
-- String formatting using f-strings
 - Beginner-friendly Python project
+- Uses input() and print()
+- Demonstrates string formatting with f-strings
+
 ## How to Run
-1. Make sure Python is installed
-2. Run the file:
+1. Make sure Python is installed on your system
+2. Download or clone this repository
+3. Open terminal/command prompt in the project folder
+4. Run the following command:
    python madlibs.py
+
 ## Example
-Input words and enjoy a funny story generated instantly!
+Enter an adjective, noun, and verb when prompted and enjoy the generated story!
+
+## Author
+Riya Gupta
